@@ -1,0 +1,12 @@
+{
+  "name": "Visite 3D — Étude de projet",
+  "short_name": "Visite 3D",
+  "display": "standalone",
+  "background_color": "#14161a",
+  "theme_color": "#14161a",
+  "start_url": ".",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
